@@ -24,4 +24,4 @@ REST services to store / retrieve translations.
 ui
 ==
 
-Simple angular js ui for managing translations.
+TODO Simple angular js ui for managing translations.
